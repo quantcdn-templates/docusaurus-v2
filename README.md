@@ -1,5 +1,7 @@
 # Docusaurus (v2) QuantCDN starter template
 
+![Template screenshot](quant/screenshot.png?raw=true)
+
 This template provides everything you need to get started with [Docusaurus 2](https://docusaurus.io/) on QuantCDN.
 
 Click the "Deploy to Quant" button to create a new repo, QuantCDN project, and deployment pipelines.
