@@ -5,5 +5,6 @@
     "content": "Docusaurus will help you ship a beautiful documentation site in no time. Powered by MDX, Built Using React, Ready for Translations, Document Versioning, Content Search.",
     "image": "https://raw.githubusercontent.com/quantcdn-templates/docusaurus-v2/main/quant/screenshot.png",
     "categories": ["Blog", "Documentation"],
-    "tags": ["React", "Markdown", "MDX", "i18n", "Search"]
+    "tags": ["React", "Markdown", "MDX", "i18n", "Search"],
+    "template_type": "ssg"
 }]
